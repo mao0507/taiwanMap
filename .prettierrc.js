@@ -7,4 +7,4 @@ module.exports = {
   'editor.formatOnSave': true,
   // eslint 自動修正
   'eslint.autoFixOnSave': true,
-}
+};
